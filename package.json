@@ -1,0 +1,27 @@
+{
+  "name": "pantry-proxy-api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ryanwells-rwc/pantry-proxy-api#readme",
+  "bugs": {
+    "url": "https://github.com/ryanwells-rwc/pantry-proxy-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanwells-rwc/pantry-proxy-api.git"
+  },
+  "license": "ISC",
+  "author": "Ryan Wells",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.15.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.1",
+    "express": "^5.2.1",
+    "path": "^0.12.7"
+  }
+}
